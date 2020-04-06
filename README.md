@@ -1,2 +1,2 @@
 # Hello-World
-A Test Repository
+A Test Repository for learning Git Operations.
